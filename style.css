@@ -1,3 +1,74 @@
-header{
+*{margin: 0;
+padding: 0;
+}
+
+.corpo-do-site{
+    background-image: linear-gradient(#05253a,#1070B5);
+}
+
+.cabeçalho{
     background-color: #07314F;
+   display: flex;
+   justify-content: center;
+}
+
+.cabeçalho-imagem{
+width: 10%; 
+}
+
+.foto-da-escola-imagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%
+}
+.escola{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    color: white;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.titulo-Escola{
+    display: flex;
+    justify-content: center;
+    padding: 54px 0;
+}
+
+.foto-da-escola{
+    padding: 54px 0;
+    display: flex;
+    justify-content: center;
+}
+
+
+.estudantes{
+
+}
+
+.icone-redes-sociais{
+
+    width: 5%;
+}
+
+.estudante-div{
+    text-align: center;
+
+}
+
+.estudantes-titulo{
+    padding: 54px 0;
+ text-align: center;
+ color: white;
+}
+
+.todos-estudantes{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
