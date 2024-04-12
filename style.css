@@ -32,7 +32,7 @@ width: 10%;
 }
 
 .escola-div-conteudo{
-    width: 35%;
+    
 }
 
 .titulo-Escola{
@@ -41,16 +41,17 @@ width: 10%;
     padding: 54px 0;
 }
 
+.texto-Escola{
+    padding: 0px o%;
+    width: 200%;
+}
+
 .foto-da-escola{
     padding: 54px 0;
     display: flex;
     justify-content: center;
 }
 
-
-.estudantes{
-
-}
 
 .icone-redes-sociais{
 
@@ -71,4 +72,8 @@ width: 10%;
 .todos-estudantes{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.estudante-foto{
+    width: 70%;
 }
