@@ -24,16 +24,10 @@ width: 10%;
 }
 .escola{
     
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 24px 0;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
-.escola-div-conteudo{
-    
-}
 
 .titulo-Escola{
     display: flex;
@@ -42,8 +36,10 @@ width: 10%;
 }
 
 .texto-Escola{
-    padding: 0px o%;
-    width: 200%;
+
+text-align: center;
+width: 100%;
+    
 }
 
 .foto-da-escola{
