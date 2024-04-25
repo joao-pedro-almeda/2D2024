@@ -1,19 +1,19 @@
 *{margin: 0;
-padding: 0;
-}
+    padding: 0;
+    }
 
 .corpo-do-site{
     background-image: linear-gradient(#05253a,#1070B5);
 }
 
 .cabeçalho{
-    background-color: #07314F;
+    background-color: #05253a;
    display: flex;
    justify-content: center;
 }
 
 .cabeçalho-imagem{
-width: 10%; 
+width: 20%; 
 }
 
 .foto-da-escola-imagem{
@@ -32,14 +32,13 @@ width: 10%;
 .titulo-Escola{
     display: flex;
     justify-content: center;
-    padding: 54px 0;
+    padding: 24px 0;
 }
 
 .texto-Escola{
-
-text-align: center;
-width: 100%;
-    
+    display: flex;
+    justify-content: center;
+    width: 100%;
 }
 
 .foto-da-escola{
@@ -61,15 +60,29 @@ width: 100%;
 
 .estudantes-titulo{
     padding: 54px 0;
- text-align: center;
- color: white;
+    text-align: center;
+    color: white;
 }
 
 .todos-estudantes{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+    color: white;
 }
 
 .estudante-foto{
     width: 70%;
 }
+
+.rodape{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 12px 0;
+}
+
+.foto-rodape{
+    width: 15%;
+}
+
