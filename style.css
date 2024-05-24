@@ -37,10 +37,27 @@ width: 20%;
 
 .texto-Escola{
     display: flex;
-    padding: 0px 369px;
+    padding: 0px 200px;
     justify-content: center;
-    width: 60%;
+    width: 80%;
     
+}
+
+.turnos{
+color: white;
+display: flex;
+padding: 0% 55px;
+}
+
+
+.geral{
+    color: white;
+    padding: 24px 55px;
+    }
+
+.titulo-alunos{
+    color: white;
+    padding: 34px  920px;
 }
 
 .foto-da-escola{
