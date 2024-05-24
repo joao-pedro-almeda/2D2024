@@ -49,16 +49,15 @@ display: flex;
 padding: 0% 55px;
 }
 
+.Turmas{
+    padding: 15px 0px;
+}
+
 
 .geral{
     color: white;
     padding: 24px 55px;
     }
-
-.titulo-alunos{
-    color: white;
-    padding: 34px  920px;
-}
 
 .foto-da-escola{
     padding: 54px 0;
